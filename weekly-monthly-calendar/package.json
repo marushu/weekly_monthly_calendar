@@ -1,0 +1,25 @@
+{
+  "name": "weekly-monthly-calendar",
+  "title": "Weekly Monthly Calendar",
+  "description": "Event calendar for weekly and monthly anywhere.",
+  "version": "0.1.0",
+  "homepage": "http://private.hibou-web.com",
+  "author": {
+    "name": "Hibou",
+    "url": "http://hibou-web.com"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.1.1",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-contrib-sass": "~0.8.0"
+  },
+  "keywords": [],
+  "license": "GPLv2",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
